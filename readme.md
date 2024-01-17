@@ -1,5 +1,5 @@
 ### Мой стек технологий:
-![HTML5](https://github.com/bgtvalex/bgtvalex/blob/main/imgs/html.svg) 
+![HTML5]([https://github.com/bgtvalex/bgtvalex/blob/main/imgs/html.svg](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)) 
 ![CSS3](https://github.com/bgtvalex/bgtvalex/blob/main/imgs/css.svg) 
 ![JavaScript](https://github.com/bgtvalex/bgtvalex/blob/main/imgs/js.svg) 
 ![Suss](https://github.com/bgtvalex/bgtvalex/blob/main/imgs/sass.svg)

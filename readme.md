@@ -1,4 +1,4 @@
-### Мой стек технологий:
+### Стек технологий:
 ![HTML5](https://github.com/bgtvalex/bgtvalex/blob/main/imgs/html.svg)
 ![CSS3](https://github.com/bgtvalex/bgtvalex/blob/main/imgs/css.svg) 
 ![JavaScript](https://github.com/bgtvalex/bgtvalex/blob/main/imgs/js.svg) 
